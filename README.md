@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on  
 • AI & IoT Projects  
-• Smart Healthcare Systems using ESP32  
+• Smart Healthcare Systems
 • Full Stack Development with Flutter & Node.js  
 
 👯 I’m looking to collaborate on  
