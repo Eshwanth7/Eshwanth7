@@ -89,12 +89,13 @@ I turn coffee ☕ into code and smart solutions 🚀
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Eshwanth7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=Eshwanth7&theme=dark&hide_border=false)
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Eshwanth7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshwanth7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Eshwanth7&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwanth7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ---
 
